@@ -1,0 +1,675 @@
+# この viminfo ファイルは Vim 8.0 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+# hlsearch on (H) or off (h):
+~H
+# 最後の 検索パターン:
+~MSle0~/ranger_load
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:wq
+|2,0,1699698155,,"wq"
+:q
+|2,0,1699697685,,"q"
+:q!
+|2,0,1699620733,,"q!"
+:.,.+3!# bash ./ranger_auto_edit.sh
+|2,0,1699384185,,".,.+3!# bash ./ranger_auto_edit.sh"
+:highlight Normal guifg=#000000 guibg=#505050
+|2,0,1699302327,,"highlight Normal guifg=#000000 guibg=#505050"
+:highlight Normal ctermbg=0 ctermfg=7
+|2,0,1699302933,,"highlight Normal ctermbg=0 ctermfg=7"
+:highlight Normal ctermbg=0 ctermfg=6
+|2,0,1699302923,,"highlight Normal ctermbg=0 ctermfg=6"
+:highlight Normal ctermbg=0 ctermfg=8
+|2,0,1699302917,,"highlight Normal ctermbg=0 ctermfg=8"
+:highlight Normal ctermbg=255 ctermfg=16
+|2,0,1699302848,,"highlight Normal ctermbg=255 ctermfg=16"
+:highlight Normal ctermbg=250 ctermfg=16
+|2,0,1699302844,,"highlight Normal ctermbg=250 ctermfg=16"
+:highlight Normal ctermbg=19 ctermfg=16
+|2,0,1699302842,,"highlight Normal ctermbg=19 ctermfg=16"
+:highlight Normal ctermbg=18 ctermfg=16
+|2,0,1699302834,,"highlight Normal ctermbg=18 ctermfg=16"
+:highlight Normal ctermbg=17 ctermfg=16
+|2,0,1699302823,,"highlight Normal ctermbg=17 ctermfg=16"
+:highlight Normal ctermbg=2 ctermfg=16
+|2,0,1699302818,,"highlight Normal ctermbg=2 ctermfg=16"
+:highlight Normal ctermbg=01 ctermfg=16
+|2,0,1699302813,,"highlight Normal ctermbg=01 ctermfg=16"
+:highlight Normal ctermbg=0 ctermfg=16
+|2,0,1699302804,,"highlight Normal ctermbg=0 ctermfg=16"
+:highlight Normal ctermbg=256 ctermfg=16
+|2,0,1699302766,,"highlight Normal ctermbg=256 ctermfg=16"
+:highlight Normal ctermbg=248 ctermfg=16
+|2,0,1699302761,,"highlight Normal ctermbg=248 ctermfg=16"
+:highlight Normal ctermbg=50 ctermfg=16
+|2,0,1699302734,,"highlight Normal ctermbg=50 ctermfg=16"
+:highlight Normal ctermbg=150 ctermfg=16
+|2,0,1699302725,,"highlight Normal ctermbg=150 ctermfg=16"
+:highlight Normal ctermbg=200 ctermfg=16
+|2,0,1699302716,,"highlight Normal ctermbg=200 ctermfg=16"
+:highlight Normal ctermbg=240 ctermfg=16
+|2,0,1699302699,,"highlight Normal ctermbg=240 ctermfg=16"
+:highlight Normal ctermbg=222 ctermfg=16
+|2,0,1699302672,,"highlight Normal ctermbg=222 ctermfg=16"
+:highlight
+|2,0,1699302606,,"highlight"
+:colorscheme kalisi
+|2,0,1699301197,,"colorscheme kalisi"
+:colorscheme tender
+|2,0,1699299232,,"colorscheme tender"
+:colorscheme murphy
+|2,0,1699283688,,"colorscheme murphy"
+:colorscheme ron
+|2,0,1699283679,,"colorscheme ron"
+:colorscheme solarized
+|2,0,1699283298,,"colorscheme solarized"
+:colorscheme koehler
+|2,0,1699282528,,"colorscheme koehler"
+:colorscheme pablo
+|2,0,1699282504,,"colorscheme pablo"
+:colorscheme peachpuff
+|2,0,1699282495,,"colorscheme peachpuff"
+:colorscheme shine
+|2,0,1699282472,,"colorscheme shine"
+:colorscheme slate
+|2,0,1699282460,,"colorscheme slate"
+:colorscheme torte
+|2,0,1699282444,,"colorscheme torte"
+:colorscheme zellner
+|2,0,1699282438,,"colorscheme zellner"
+:colorscheme evening
+|2,0,1699282419,,"colorscheme evening"
+:colorscheme delek
+|2,0,1699282407,,"colorscheme delek"
+:colorscheme default
+|2,0,1699282398,,"colorscheme default"
+:colorscheme morning
+|2,0,1699282385,,"colorscheme morning"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+?/ranger_load
+|2,1,1699386397,47,"ranger_load"
+?/bin/bash
+|2,1,1699384185,47,"bin/bash"
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+"1	LINE	0
+	
+|3,0,1,1,1,0,1699609896,""
+"2	LINE	0
+	
+|3,0,2,1,1,0,1699609896,""
+"3	LINE	0
+	
+|3,0,3,1,1,0,1699609896,""
+"4	LINE	0
+	
+|3,0,4,1,1,0,1699609892,""
+"5	LINE	0
+	
+|3,0,5,1,1,0,1699609881,""
+"6	LINE	0
+	
+|3,0,6,1,1,0,1699609879,""
+"7	LINE	0
+	
+|3,0,7,1,1,0,1699609879,""
+"8	LINE	0
+	
+|3,0,8,1,1,0,1699384184,""
+"9	LINE	0
+	
+|3,0,9,1,1,0,1699384183,""
+""-	CHAR	0
+	/
+|3,1,36,0,1,0,1699698071,"/"
+
+# ファイルマーク:
+'0  9  0  ~/bin/backup_folder
+|4,48,9,0,1699698155,"~/bin/backup_folder"
+'1  12  0  ~/bin/backup_folder
+|4,49,12,0,1699698077,"~/bin/backup_folder"
+'2  12  0  ~/bin/backup_folder
+|4,50,12,0,1699698077,"~/bin/backup_folder"
+'3  31  0  ~/bin/backup_folder
+|4,51,31,0,1699697929,"~/bin/backup_folder"
+'4  31  0  ~/bin/backup_folder
+|4,52,31,0,1699697929,"~/bin/backup_folder"
+'5  31  0  ~/bin/backup_folder
+|4,53,31,0,1699697929,"~/bin/backup_folder"
+'6  31  0  ~/bin/backup_folder
+|4,54,31,0,1699697929,"~/bin/backup_folder"
+'7  3  16  ~/.bashrc
+|4,55,3,16,1699697862,"~/.bashrc"
+'8  6653  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,56,6653,0,1699697685,"~/aroma_Backup/aroma_20231111-191258.log"
+'9  29  0  ~/bin/backup_folder
+|4,57,29,0,1699697642,"~/bin/backup_folder"
+
+# ジャンプリスト (新しいものが先):
+-'  9  0  ~/bin/backup_folder
+|4,39,9,0,1699698155,"~/bin/backup_folder"
+-'  12  0  ~/bin/backup_folder
+|4,39,12,0,1699698137,"~/bin/backup_folder"
+-'  12  0  ~/bin/backup_folder
+|4,39,12,0,1699698077,"~/bin/backup_folder"
+-'  31  0  ~/bin/backup_folder
+|4,39,31,0,1699698054,"~/bin/backup_folder"
+-'  31  0  ~/bin/backup_folder
+|4,39,31,0,1699698054,"~/bin/backup_folder"
+-'  31  0  ~/bin/backup_folder
+|4,39,31,0,1699697929,"~/bin/backup_folder"
+-'  29  0  ~/bin/backup_folder
+|4,39,29,0,1699697907,"~/bin/backup_folder"
+-'  29  0  ~/bin/backup_folder
+|4,39,29,0,1699697907,"~/bin/backup_folder"
+-'  29  0  ~/bin/backup_folder
+|4,39,29,0,1699697907,"~/bin/backup_folder"
+-'  3  16  ~/.bashrc
+|4,39,3,16,1699697862,"~/.bashrc"
+-'  3  16  ~/.bashrc
+|4,39,3,16,1699697862,"~/.bashrc"
+-'  3  16  ~/.bashrc
+|4,39,3,16,1699697862,"~/.bashrc"
+-'  3  16  ~/.bashrc
+|4,39,3,16,1699697862,"~/.bashrc"
+-'  3  16  ~/.bashrc
+|4,39,3,16,1699697862,"~/.bashrc"
+-'  3  16  ~/.bashrc
+|4,39,3,16,1699697862,"~/.bashrc"
+-'  3  16  ~/.bashrc
+|4,39,3,16,1699697862,"~/.bashrc"
+-'  3  16  ~/.bashrc
+|4,39,3,16,1699697862,"~/.bashrc"
+-'  17  0  ~/.bashrc
+|4,39,17,0,1699697764,"~/.bashrc"
+-'  17  0  ~/.bashrc
+|4,39,17,0,1699697764,"~/.bashrc"
+-'  17  0  ~/.bashrc
+|4,39,17,0,1699697764,"~/.bashrc"
+-'  17  0  ~/.bashrc
+|4,39,17,0,1699697764,"~/.bashrc"
+-'  17  0  ~/.bashrc
+|4,39,17,0,1699697764,"~/.bashrc"
+-'  17  0  ~/.bashrc
+|4,39,17,0,1699697764,"~/.bashrc"
+-'  17  0  ~/.bashrc
+|4,39,17,0,1699697764,"~/.bashrc"
+-'  17  0  ~/.bashrc
+|4,39,17,0,1699697764,"~/.bashrc"
+-'  6653  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,6653,0,1699697685,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  6653  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,6653,0,1699697685,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  6653  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,6653,0,1699697685,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  6653  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,6653,0,1699697685,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  6653  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,6653,0,1699697685,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  6653  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,6653,0,1699697685,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  6653  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,6653,0,1699697685,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  6653  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,6653,0,1699697685,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  6653  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,6653,0,1699697685,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  6653  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,6653,0,1699697685,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  6653  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,6653,0,1699697685,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  6653  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,6653,0,1699697685,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  6653  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,6653,0,1699697685,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  6653  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,6653,0,1699697685,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  6653  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,6653,0,1699697685,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  6653  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,6653,0,1699697685,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  1  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,1,0,1699697662,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  1  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,1,0,1699697662,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  1  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,1,0,1699697662,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  1  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,1,0,1699697662,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  1  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,1,0,1699697662,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  1  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,1,0,1699697662,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  1  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,1,0,1699697662,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  1  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,1,0,1699697662,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  1  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,1,0,1699697662,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  1  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,1,0,1699697662,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  1  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,1,0,1699697662,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  1  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,1,0,1699697662,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  1  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,1,0,1699697662,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  1  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,1,0,1699697662,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  1  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,1,0,1699697662,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  1  0  ~/aroma_Backup/aroma_20231111-191258.log
+|4,39,1,0,1699697662,"~/aroma_Backup/aroma_20231111-191258.log"
+-'  29  0  ~/bin/backup_folder
+|4,39,29,0,1699697642,"~/bin/backup_folder"
+-'  29  0  ~/bin/backup_folder
+|4,39,29,0,1699697642,"~/bin/backup_folder"
+-'  29  0  ~/bin/backup_folder
+|4,39,29,0,1699697642,"~/bin/backup_folder"
+-'  29  0  ~/bin/backup_folder
+|4,39,29,0,1699697642,"~/bin/backup_folder"
+-'  28  0  ~/bin/backup_folder
+|4,39,28,0,1699697615,"~/bin/backup_folder"
+-'  28  0  ~/bin/backup_folder
+|4,39,28,0,1699697615,"~/bin/backup_folder"
+-'  28  0  ~/bin/backup_folder
+|4,39,28,0,1699697615,"~/bin/backup_folder"
+-'  28  0  ~/bin/backup_folder
+|4,39,28,0,1699697615,"~/bin/backup_folder"
+-'  28  0  ~/bin/backup_folder
+|4,39,28,0,1699697615,"~/bin/backup_folder"
+-'  28  0  ~/bin/backup_folder
+|4,39,28,0,1699697615,"~/bin/backup_folder"
+-'  28  0  ~/bin/backup_folder
+|4,39,28,0,1699697615,"~/bin/backup_folder"
+-'  28  0  ~/bin/backup_folder
+|4,39,28,0,1699697572,"~/bin/backup_folder"
+-'  28  0  ~/bin/backup_folder
+|4,39,28,0,1699697572,"~/bin/backup_folder"
+-'  28  0  ~/bin/backup_folder
+|4,39,28,0,1699697572,"~/bin/backup_folder"
+-'  28  0  ~/bin/backup_folder
+|4,39,28,0,1699697572,"~/bin/backup_folder"
+-'  10  0  ~/bin/backup_folder
+|4,39,10,0,1699697531,"~/bin/backup_folder"
+-'  10  0  ~/bin/backup_folder
+|4,39,10,0,1699697531,"~/bin/backup_folder"
+-'  10  0  ~/bin/backup_folder
+|4,39,10,0,1699697531,"~/bin/backup_folder"
+-'  10  0  ~/bin/backup_folder
+|4,39,10,0,1699697531,"~/bin/backup_folder"
+-'  10  0  ~/bin/backup_folder
+|4,39,10,0,1699697531,"~/bin/backup_folder"
+-'  10  0  ~/bin/backup_folder
+|4,39,10,0,1699697531,"~/bin/backup_folder"
+-'  10  0  ~/bin/backup_folder
+|4,39,10,0,1699697531,"~/bin/backup_folder"
+-'  10  0  ~/bin/backup_folder
+|4,39,10,0,1699697531,"~/bin/backup_folder"
+-'  10  0  ~/bin/backup_folder
+|4,39,10,0,1699697531,"~/bin/backup_folder"
+-'  10  0  ~/bin/backup_folder
+|4,39,10,0,1699697531,"~/bin/backup_folder"
+-'  10  0  ~/bin/backup_folder
+|4,39,10,0,1699697531,"~/bin/backup_folder"
+-'  1  0  ~/bin/abcpassword
+|4,39,1,0,1699696184,"~/bin/abcpassword"
+-'  1  0  ~/bin/abcpassword
+|4,39,1,0,1699696184,"~/bin/abcpassword"
+-'  1  0  ~/bin/abcpassword
+|4,39,1,0,1699696184,"~/bin/abcpassword"
+-'  1  0  ~/bin/abcpassword
+|4,39,1,0,1699696184,"~/bin/abcpassword"
+-'  1  0  ~/bin/abcpassword
+|4,39,1,0,1699696184,"~/bin/abcpassword"
+-'  1  0  ~/bin/abcpassword
+|4,39,1,0,1699696184,"~/bin/abcpassword"
+-'  1  0  ~/bin/abcpassword
+|4,39,1,0,1699696184,"~/bin/abcpassword"
+-'  1  0  ~/bin/abcpassword
+|4,39,1,0,1699696184,"~/bin/abcpassword"
+-'  1  0  ~/bin/abcpassword
+|4,39,1,0,1699696184,"~/bin/abcpassword"
+-'  1  0  ~/bin/abcpassword
+|4,39,1,0,1699696184,"~/bin/abcpassword"
+-'  1  0  ~/bin/abcpassword
+|4,39,1,0,1699696184,"~/bin/abcpassword"
+-'  1  0  ~/bin/abcpassword
+|4,39,1,0,1699696184,"~/bin/abcpassword"
+-'  1  0  ~/bin/abcpassword
+|4,39,1,0,1699696184,"~/bin/abcpassword"
+-'  1  0  ~/bin/abcpassword
+|4,39,1,0,1699696184,"~/bin/abcpassword"
+-'  1  0  ~/bin/abcpassword
+|4,39,1,0,1699696184,"~/bin/abcpassword"
+-'  1  0  ~/bin/abcpassword
+|4,39,1,0,1699696184,"~/bin/abcpassword"
+-'  1  0  ~/bin/abcpassword
+|4,39,1,0,1699696184,"~/bin/abcpassword"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/bin/backup_folder
+	*	1699698150	0
+	"	9	0
+	^	9	0
+	.	9	26
+	+	4	5
+	+	10	70
+	+	9	26
+	+	29	0
+	+	31	6
+	+	11	24
+	+	9	26
+
+> ~/.bashrc
+	*	1699697861	0
+	"	3	16
+	^	3	17
+	.	3	16
+	+	16	0
+	+	20	0
+	+	60	29
+	+	38	0
+	+	51	0
+	+	52	2
+	+	53	2
+	+	54	2
+	+	55	2
+	+	56	0
+	+	55	0
+	+	54	0
+	+	53	0
+	+	52	0
+	+	20	42
+	+	16	0
+	+	20	0
+	+	22	0
+	+	21	84
+	+	21	1
+	+	17	31
+	+	3	0
+	+	2	13
+	+	3	16
+
+> ~/aroma_Backup/aroma_20231111-191258.log
+	*	1699697683	0
+	"	6653	0
+
+> ~/bin/abcpassword
+	*	1699696183	0
+	"	1	0
+
+> ~/bin/backup_disk
+	*	1699689252	0
+	"	35	0
+	^	37	0
+	.	31	13
+	+	2	5
+	+	19	0
+	+	26	1
+	+	28	2
+	+	31	27
+	+	20	0
+	+	31	13
+
+> ~/.vimrc
+	*	1699687918	0
+	"	1	0
+	^	82	0
+	.	82	0
+	+	636	0
+	+	637	0
+	+	638	0
+	+	639	0
+	+	640	0
+	+	641	0
+	+	642	0
+	+	643	0
+	+	644	0
+	+	645	0
+	+	646	0
+	+	647	0
+	+	649	0
+	+	650	0
+	+	651	0
+	+	652	0
+	+	653	0
+	+	654	0
+	+	655	0
+	+	656	0
+	+	657	0
+	+	659	0
+	+	660	0
+	+	661	0
+	+	662	0
+	+	663	0
+	+	664	0
+	+	665	0
+	+	666	0
+	+	667	0
+	+	668	0
+	+	669	0
+	+	670	0
+	+	671	0
+	+	657	0
+	+	647	0
+	+	624	0
+	+	629	1
+	+	676	0
+	+	675	0
+	+	674	0
+	+	675	0
+	+	673	0
+	+	674	2
+	+	675	2
+	+	678	0
+	+	2	0
+	+	610	10
+	+	36	0
+	+	340	10
+	+	79	18
+	+	78	8
+	+	78	0
+	+	79	0
+	+	78	21
+	+	78	12
+	+	77	29
+	+	78	1
+	+	78	0
+	+	82	0
+	+	35	0
+	+	35	15
+	+	34	23
+	+	37	0
+	+	36	16
+	+	36	0
+	+	38	0
+	+	78	2
+	+	29	0
+	+	26	1
+	+	28	1
+	+	30	1
+	+	31	0
+	+	72	2
+	+	73	0
+	+	50	0
+	+	17	0
+	+	16	1
+	+	17	0
+	+	39	59
+	+	40	8
+	+	51	53
+	+	50	1
+	+	51	24
+	+	55	0
+	+	87	17
+	+	83	1
+	+	84	0
+	+	85	0
+	+	86	0
+	+	87	19
+	+	82	0
+
+> /etc/cron.daily/auto_backup.sh
+	*	1699620730	0
+	"	10	0
+	^	10	0
+	.	11	0
+	+	10	0
+	+	11	0
+
+> /var/log/mondoarchive.log
+	*	1699620501	0
+	"	92	7
+
+> ~/bin/cockpit_off
+	*	1699611005	0
+	"	2	0
+	^	2	5
+	.	2	5
+	+	5	0
+	+	6	63
+	+	2	5
+	+	6	0
+	+	7	0
+	+	6	76
+	+	10	3
+	+	9	18
+	+	7	0
+	+	8	0
+	+	9	0
+	+	8	21
+	+	10	0
+	+	6	77
+	+	2	5
+
+> ~/bin/cockpit_on
+	*	1699610724	0
+	"	10	0
+	^	10	0
+	.	9	15
+	+	5	0
+	+	6	0
+	+	2	5
+	+	6	0
+	+	6	61
+	+	9	18
+	+	7	0
+	+	8	0
+	+	9	15
+
+> ~/bin/cockpit_tg
+	*	1699606582	0
+	"	6	70
+	.	6	69
+	+	6	69
+
+> ~/.bash_profile
+	*	1699592266	0
+	"	12	0
+	^	12	0
+	.	13	0
+	+	12	30
+	+	12	54
+	+	13	22
+	+	14	0
+	+	13	0
+
+> /var/log/rear/rear-www.log
+	*	1699427735	0
+	"	1146	0
+
+> /usr/sbin/postconf
+	*	1699417601	0
+	"	1	0
+
+> /etc/postfix/main.cf
+	*	1699417025	0
+	"	1	0
+
+> ~/test.sh
+	*	1699403442	0
+	"	11	0
+	^	23	0
+	.	9	0
+	+	17	0
+	+	16	4
+	+	17	0
+	+	16	4
+	+	9	0
+	+	22	15
+	+	9	0
+
+> ~/.config/ranger/rc.conf
+	*	1699386892	0
+	"	759	0
+
+> ~/.gvimrc
+	*	1699386498	0
+	"	1	0
+	^	10	1
+	.	10	0
+	+	10	1
+	+	2	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+
+> ~/ranger_auto_edit.sh
+	*	1699384472	0
+	"	1	0
+	^	1	0
+	.	17	0
+	+	1	0
+	+	5	0
+	+	29	0
+	+	30	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	28	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	28	0
+	+	7	0
+	+	5	0
+	+	6	0
+	+	16	0
+	+	17	0
+
+> ~/backup/aroma_20231107-201849.log
+	*	1699383878	0
+	"	1	0
